@@ -41,7 +41,7 @@ const ActionArea = ({ add_list }) => {
             setactiveView("midarea");
           }}
         >
-          Action Area
+          Control Area
         </h1>
 
         <h1
